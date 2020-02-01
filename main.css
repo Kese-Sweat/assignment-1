@@ -1,0 +1,22 @@
+body{
+
+font-family:'Times New Roman', Times, serif;
+color: rgb(8, 0, 0);
+background-color: burlywood}
+
+.text-center {
+    text-align: center;
+}
+
+.centered-table {
+    margin: 0 auto;
+    width: 328px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.img {
+
+    height: ;
+}
