@@ -2,7 +2,7 @@ body{
 
 font-family:'Times New Roman', Times, serif;
 color: rgb(8, 0, 0);
-background-color: burlywood}
+background-color: rgb(189, 189, 189)}
 
 .text-center {
     text-align: center;
@@ -10,13 +10,32 @@ background-color: burlywood}
 
 .centered-table {
     margin: 0 auto;
-    width: 328px;
+    width: 428px;
     color: white;
     font-family: 'Courier New', Courier, monospace;
 
 }
 
-.img {
+head{
 
-    height: ;
+    text-align:center;
+    
 }
+
+
+
+.yellow-square {
+  background-color: #13b4f7;
+  width: 1000px;
+  height: 10px;
+  margin: 0 auto;
+}
+
+.img
+ {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  
